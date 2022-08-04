@@ -266,3 +266,13 @@ _Command-Line Tools and Utilities For Network Management_
 <img width="600" alt="testssl.sh command line tool which checks a server's service on any port for the support of TLS/SSL ciphers" src="assets/images/network/testssl/testssl_2.png" />
 <img width="600" alt="testssl.sh command line tool which checks a server's service on any port for the support of TLS/SSL ciphers" src="assets/images/network/testssl/testssl_3.png" />
 </details>
+
+<details><summary><b><a href="https://github.com/esnet/iperf">iperf3</a></b> - a TCP, UDP, and SCTP network bandwidth measurement tool</summary>
+<br>
+
+[![Repo stars](https://img.shields.io/github/stars/esnet/iperf?style=for-the-badge)](https://github.com/esnet/iperf/stargazers)
+[![Latest tag](https://img.shields.io/github/v/tag/esnet/iperf?style=for-the-badge)](https://github.com/esnet/iperf/tags)
+<br>
+<p>iperf is a tool for active measurements of the maximum achievable bandwidth on IP networks. It supports tuning of various parameters related to timing, protocols, and buffers. For each test it reports the measured throughput / bitrate, loss, and other parameters.</p>
+<img width="600" alt="iperf3 a TCP, UDP, and SCTP network bandwidth measurement tool" src="assets/images/network/iperf3.webp" />
+</details>
